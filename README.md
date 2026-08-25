@@ -24,6 +24,7 @@ This project is being built incrementally to demonstrate practical experience wi
 ## Current Status
 
 Phase 1: Git and application foundation.
+
 Phase 2: Application persistence and database foundation.
 
 Completed:
