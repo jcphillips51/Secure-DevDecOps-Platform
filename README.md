@@ -24,3 +24,19 @@ This project is being built incrementally to demonstrate practical experience wi
 ## Current Status
 
 Phase 1: Git and application foundation.
+Phase 2: Application persistence and database foundation.
+
+Completed:
+- Git and GitHub repository foundation
+- FastAPI application structure
+- Health check endpoint and automated test
+- PostgreSQL database integration
+- SQLAlchemy ORM and session management
+- Alembic schema migrations
+- Initial vulnerability data model
+- Environment-based database configuration and secret handling
+
+Next:
+- Connect vulnerability API endpoints to PostgreSQL
+- Add request and response validation
+- Add database-backed API tests
